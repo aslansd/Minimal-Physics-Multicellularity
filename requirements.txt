@@ -1,0 +1,6 @@
+numpy>=1.22
+scipy>=1.8
+matplotlib>=3.5
+networkx>=2.8
+jupyterlab>=3.0
+ipykernel
